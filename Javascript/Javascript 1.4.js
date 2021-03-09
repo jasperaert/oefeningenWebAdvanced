@@ -1,0 +1,1 @@
+document.getElementById("titel").innerHTML = (prompt("Geef uw naam"))
